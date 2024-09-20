@@ -33,7 +33,7 @@ st.set_page_config(page_title="Promptify", page_icon="🤖")
 
 # Header and subtitle
 st.header("🤖 Promptify")
-st.subheader("Code & Completion Assistan")
+st.subheader("Code & Completion Assistant")
 
 # Add an image or logo (optional)
 # st.image("path_to_your_image.png", use_column_width=True)
